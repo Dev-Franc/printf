@@ -22,10 +22,10 @@ int get_flags(const char *format, int *i)
 
 	const int FLAGS_ARR[] = {F_MINUS, F_PLUS, F_ZERO, F_HASH, F_SPACE, 0};
 
-	for (curr_i = *i + 1; formatt[curr_i] != '\0'; curr_i++)
+	for (curr_i = *i + 1; format[curr_i] != '\0'; curr_i++)
 
 	{
-		for (j = 0; FLAGS_CH[J] != '\0'; j++)
+		for (j = 0; FLAGS_CH[j] != '\0'; j++)
 
 			if (format[curr_i] == FLAGS_CH[j])
 
