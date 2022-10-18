@@ -1,3 +1,4 @@
-# printf
-Authors: [Adunchezor Francis Ifeayi](https://github.com/Dev-Franc)
-         [Chinwem Frances](https://github.com/Chinwem)
+0x11. C - printf
+Team Project by
+Tekenatei Franklyn &
+Karlie Moyo
